@@ -1,0 +1,137 @@
+✅ Exercício 1: O Crítico de Cinema
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Resenha de A Origem</title>
+</head>
+<body>
+  <h1>A Origem</h1>
+  <h3>Uma análise por João Silva</h3>
+
+  <h2>Ficha Técnica</h2>
+  <p>
+    Diretor: Christopher Nolan<br>
+    Ano de Lançamento: 2010<br>
+    Gênero: Ficção Científica / Ação
+  </p>
+
+  <h2>Minha Opinião</h2>
+  <p>
+    "A Origem" é um daqueles filmes que te fazem pensar por horas após o final. A complexidade dos sonhos dentro de sonhos é conduzida de forma brilhante, com uma narrativa que mantém o espectador preso do começo ao fim. <strong>Leonardo DiCaprio</strong> entrega uma performance intensa e emocionante.
+  </p>
+  <p>
+    <em>Achei o final simplesmente incrível</em>, deixando espaço para interpretações e discussões. É um filme que merece ser revisto para captar todos os detalhes escondidos.
+  </p>
+</body>
+</html>
+
+
+
+
+
+
+✅ Exercício 2: O Cientista Amador
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Explorando Marte</title>
+</head>
+<body>
+  <h1>Marte: O Planeta Vermelho</h1>
+
+  <p>
+    Marte tem sua coloração avermelhada devido à grande quantidade de óxido de ferro (ferrugem) presente em sua superfície, o que reflete a luz do sol em tons vermelhos.
+  </p>
+
+  <h2>Dados Científicos</h2>
+
+  <p>
+    A <strong>atmosfera</strong> é composta principalmente por Dióxido de Carbono (CO<sub>2</sub>), com pequenas quantidades de nitrogênio e argônio.
+  </p>
+
+  <p>
+    A <strong>temperatura média</strong> é de -63<sup>o</sup>C, tornando o planeta extremamente frio e hostil à vida como conhecemos.
+  </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+✅ Exercício 3: O Guia de Viagem Local
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Guia de Curitiba - Por João Silva</title>
+</head>
+<body>
+  <h1>Parque Tanguá</h1>
+  <h4>O melhor lugar para relaxar no fim de tarde</h4>
+
+  <h2>Por que eu recomendo?</h2>
+  <p>
+    O Parque Tanguá é um dos lugares mais bonitos de Curitiba, perfeito para caminhadas, piqueniques e apreciar o pôr do sol. <em>O que mais me encanta é a vista do mirante sobre a antiga pedreira</em>, simplesmente inesquecível.
+  </p>
+
+  <h2>Endereço</h2>
+  <p>
+    <strong>Rua Oswaldo Maciel</strong><br>
+    Bairro Taboão<br>
+    Curitiba - PR
+  </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+✅ Exercício 4: A Página de Receitas
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Receita: Ovo Mexido Simples</title>
+</head>
+<body>
+  <h1>Ovo Mexido Simples</h1>
+
+  <h2>Ingredientes</h2>
+  <p>
+    2 ovos<br>
+    1 colher de sopa de leite<br>
+    Sal a gosto<br>
+    Pimenta do reino a gosto<br>
+    1 colher de chá de manteiga
+  </p>
+
+  <h2>Modo de Preparo</h2>
+
+  <h4>Passo 1</h4>
+  <p>
+    Quebre os ovos em uma tigela, adicione o leite, o sal e a pimenta. Bata tudo com um garfo até ficar homogêneo.
+  </p>
+
+  <h4>Passo 2</h4>
+  <p>
+    Aqueça uma frigideira em fogo médio e adicione a manteiga. <strong>Cuidado para não deixar a manteiga queimar!</strong>
+  </p>
+
+  <h4>Passo 3</h4>
+  <p>
+    Despeje a mistura na frigideira e mexa lentamente até os ovos ficarem cozidos, mas ainda cremosos. <em>Para um sabor extra, adicione cebolinha picada no final</em>.
+  </p>
+</body>
+</html>

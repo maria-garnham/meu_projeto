@@ -1,0 +1,11 @@
+/* vamos testar as cores */
+body{
+    /* background-color: rgb(226, 226, 214); */
+    background-image: url(../src/imagens/man-9681098_1280.jpg);
+    
+}
+
+
+h1 {
+    color:#06737c;
+}
